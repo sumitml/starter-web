@@ -24,14 +24,3 @@ adsand,and
 
 
 
-jbjkhjkhkjhkhkjhkjhk
-
-
-sadakdkasdjakjdj
-
-
-before rebase
-
-
-
-2nd conflict for rebase
