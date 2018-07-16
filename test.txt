@@ -14,11 +14,19 @@ again
 ttteeesssttt
 
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+ggggggggggtttttttteeeeeeee
+>>>>>>> mybranch
 
 
 
 klasdjlakdkladklsdjladjdlajaj
 
+<<<<<<< HEAD
 
 
 and lecture still coming
+=======
+>>>>>>> mybranch
